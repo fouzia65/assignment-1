@@ -93,3 +93,131 @@ body{
 .page-3 > .Bangladesh > div h1 {
     margin-bottom: 12px;
 }
+/* the version of future  */
+.page-4{
+    display: flex;
+    flex-direction: column;
+    gap: 23px;
+    padding: 30px;
+}
+.page-4>.future{
+    display: flex;
+    flex-direction: row;
+    gap: 23px;
+}
+
+/* div-1  */
+
+.page-4>.future> .div-1{
+    border-radius: 23px;
+    background-color: rgba(84, 144, 245, 0.2);
+}
+.page-4>.future> .div-1 button{
+    background-color: rgb(84, 144, 245);
+    padding: 9px;
+    border: 2px solid rgb(84, 144, 245);
+    border-radius: 12px;
+    color: white;
+}
+.page-4>.future> .div-1 button:hover{
+    background-color: white;
+    color: rgb(84, 144, 245);
+}
+
+/* div-2  */
+
+.page-4>.future> .div-2{
+    border-radius: 23px;
+    background-color: rgb(198, 228, 214);
+}
+.page-4>.future> .div-2 button{
+    background-color:rgb(9, 161, 92);
+    padding: 9px;
+    border: 2px solid rgb(9, 161, 92);
+    border-radius: 12px;
+    color: white;
+}
+.page-4>.future> .div-2 button:hover{
+    background-color: white;
+    color: rgb(9, 161, 92);
+}
+
+/* div-3  */
+.page-4{
+    margin-top: 80px;
+}
+
+.page-4>.future> .div-3{
+    border-radius: 23px;
+    background-color: rgb(247, 235, 207);
+}
+.page-4>.future> .div-3 button{
+    background-color: rgb(255, 194, 57);
+    padding: 9px;
+    border: 2px solid rgb(255, 194, 57);
+    border-radius: 12px;
+    color: white;
+}
+.page-4>.future> .div-3 button:hover{
+    background-color: white;
+    color: rgb(255, 194, 57);
+}
+.page-4>.future> div img,
+.page-4>.future> div h1,
+.page-4>.future> div p,
+.page-4>.future> div button{
+ margin-bottom: 23px;
+}
+.page-4>.future> div{
+    padding: 23px;
+}
+.page-4>.yunus{
+    background-color: white;
+    padding: 23px;
+    border: 2px solid white;
+    border-radius: 23px;
+}
+.page-4>.yunus img{
+    position: absolute;
+}
+.page-4>.yunus p{
+    position: static;
+    margin-top: 30px;
+    margin-bottom: 23px;
+}
+.page-4>.yunus h5{
+    margin-top: 7px;
+    font-weight: 400;
+    color: gray;
+}
+/* recent news */
+.page-6{
+    padding: 23px;
+    margin-top: 80px;
+}
+.page-6>.right{
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+    margin: 23px;
+    padding: 23px;
+    border-radius: 23px;
+    }
+    
+    .page-6>div .img-1{
+        width: 412px;
+        height: 222px;
+        border-radius:23px ;
+        padding: 12px;
+    }
+    .page-6>.right >.description button{
+    background-color: rgb(0, 106, 80);
+    padding: 12px;
+    border-radius: 6px;
+    color: white;
+    border: 2px solid rgb(0, 106, 80);
+    }
+    .page-6>.right >.description button:hover{
+        color: rgb(0, 106, 80);
+        background-color: white;
+    }
