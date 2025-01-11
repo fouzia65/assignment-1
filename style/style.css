@@ -70,6 +70,7 @@ body{
 
 /* Pillars of "Bangladesh 2.0" */
 .page-3{
+    margin-top: 80px;
     width: 1211px;
     display: flex;
     flex-direction: column;
